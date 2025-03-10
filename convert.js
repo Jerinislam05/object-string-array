@@ -12,9 +12,9 @@ function inchToFeet2(inch) {
     return result;
 }
 const suvoHeight = inchToFeet(75);
-// console.log(suvoHeight);
+console.log(suvoHeight);
 const suvoHeight2 = inchToFeet2(75);
-// console.log(suvoHeight2);
+console.log(suvoHeight2);
 
 // miles To kilometers
 function mileToKm(mile) {
